@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(234, 233, 233);
+    background-color: rgb(255, 0, 233);
     color: rgb(129, 126, 126);
     max-width: 800px;
     margin: 0 auto;
@@ -10,7 +10,7 @@ body {
 
 h1 {
     text-align: center;
-    color: black;
+    color: green;
     font-size: 2em;
     margin-bottom: 30px;
     padding-bottom: 10px;
