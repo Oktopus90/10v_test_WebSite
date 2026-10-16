@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(234, 233, 233);
+    color: rgb(129, 126, 126);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 2em;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(218, 212, 212);
+}
+
+h2 {
+    color: rgb(47, 79, 79);
+    font-size: 1.4em;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: rgb(102, 98, 98);
+    font-size: 1.2em;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 15px;
+    font-size: 16px;
+    color:black
+}
+
+ul {
+    margin-bottom: 15px;
+    padding-left: 20px;
+    list-style-position: inside;
+}
+
+li {
+    margin-bottom: 8px;
+    font-size: 16px;
+    color:black;
+    text-align: left
+}
+
+div {
+    text-align: left;
+}
